@@ -5,3 +5,8 @@ ul
 {
     box-shadow: none;
 }
+.black-background {
+    background-color: black;
+    color: whitesmoke;
+    height: 200px;
+}
